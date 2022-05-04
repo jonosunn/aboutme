@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jonosunn-website/static/css/main.2ec72a47.css",
+    "main.js": "/jonosunn-website/static/js/main.c7564a08.js",
+    "index.html": "/jonosunn-website/index.html",
+    "main.2ec72a47.css.map": "/jonosunn-website/static/css/main.2ec72a47.css.map",
+    "main.c7564a08.js.map": "/jonosunn-website/static/js/main.c7564a08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec72a47.css",
+    "static/js/main.c7564a08.js"
+  ]
+}
