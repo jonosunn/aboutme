@@ -47,7 +47,7 @@ export default function Portfolios() {
                     Designed a user interfaced that was easy to use for mobile and desktop web application. As a side Project
                     for UI/UX I decided to enhance the users experience, applying UI/UX methodoloy and a new User Interface design.
                     </p>
-                    <a href="" class="readMoreLink">Read More (COMING SOON)&gt;</a>
+                    <a href="/" class="readMoreLink">Read More (COMING SOON)&gt;</a>
                 </div>
                 <img
                 className="imgDivRight"
@@ -74,7 +74,7 @@ export default function Portfolios() {
                     <p class="experienceDesc">
                         Learnt react JS to build a my website to showcase my experience as a Developer and a Designer.
                     </p>
-                    <a href="" class="readMoreLink">Read More (COMING SOON)&gt;</a>
+                    <a href="/" class="readMoreLink">Read More (COMING SOON)&gt;</a>
                 </div>
             </div>
             <div className="portfolioTwo"> 
@@ -92,7 +92,7 @@ export default function Portfolios() {
                         In my free time I coded a discord bot that accept commands to store data inside a table. 
                         Within discord you could use commands to modify the data stored and print out the data within a table. 
                     </p>
-                    <a href="" class="readMoreLink">Read More (COMING SOON)&gt;</a>
+                    <a href="/" class="readMoreLink">Read More (COMING SOON)&gt;</a>
                 </div>
                 <img
                 className="imgDivRight"
