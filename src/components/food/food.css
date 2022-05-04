@@ -1,0 +1,97 @@
+.foodPost {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.foodCard {
+    width: 300px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background: linear-gradient(170deg, #f5d5cb , white );
+    height: 450px;
+    box-shadow: 10px 10px 16px #a9b7c0;
+}
+
+.foodCardTwo {
+    width: 300px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background: linear-gradient(170deg, #f3ddf2, white);
+    height: 450px;
+    box-shadow: 10px 10px 16px #a9b7c0;
+}
+
+
+.foodCardThree {
+    width: 300px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background: linear-gradient(170deg, #f6f6eb, white );
+    height: 450px;
+    box-shadow: 10px 10px 16px #a9b7c0;
+}
+
+.foodCard > img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.foodCardTwo > img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.foodCardThree > img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+
+.foodDesc {
+    font-family: "JetBrains Mono",Monaco,Menlo,monospace;
+    height:60px;
+    width:250px;
+    overflow: hidden;
+    text-align: right;
+}
+
+.foodTitle{
+    font-family: "Space Grotesk",sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    color: #1d262a;
+}
+
+.textAlign {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    overflow: hidden;
+    margin-top: 50px;
+}
+
+.rating {
+    font-family: "JetBrains Mono",Monaco,Menlo,monospace;
+    color:#444
+}

@@ -1,0 +1,33 @@
+.aboutMeDiv {
+    width: 350px;
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.infoDesc {
+    font-family: "JetBrains Mono",Monaco,Menlo,monospace;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #444444;
+    padding:20px;
+    text-align: center;
+    height:150px;
+}
+
+.infoDisplay {
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: center;
+}
+
+.aboutMeIcon {
+    color:#444;
+}

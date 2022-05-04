@@ -1,0 +1,33 @@
+.foodHeader {
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+    flex-direction: column;
+}
+
+.foodHeaderTitle {
+    padding-right: 0px;
+    padding-left: 0px;
+    color: #a9b7c0;
+    font-size: 40px;
+    text-align: left;
+    margin-left: 6%;
+    margin-right: 6%;
+    text-decoration: none;
+    font-family: "Space Grotesk",sans-serif;
+}
+
+.foodHeaderDesc {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: #5c80a6;
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 600;
+    text-align: left;
+    letter-spacing: 7px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 6%;
+}
